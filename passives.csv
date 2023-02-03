@@ -1,0 +1,62 @@
+Attack Expert,Increases ATK by 24 + Level
+Avenger,20% bonus to damage dealt (to a maximum of 60%) and 12.5% reduction to damage received (to a maximum of 37.5%) for each fallen ally
+Bat form,Grants flying movement type
+Blessed One,Using a single-target healing spell or item on another character increases this character’s health by half the amount
+Blood Magic,Character uses HP instead of MP for abilities at the rate of 2% of HP for 1 MP
+Blood Mark,Damage increases 20% for each consecutive attack by this character on the same target
+Bloodlust,Damage dealt increases as the character’s HP decreases
+Boon,Killing an enemy gives the character a guaranteed critical hit on the next turn except against targets with Rebirth
+Cautious Step,"Makes character immune to traps, Root, and Slow"
+Chilling Touch,Attacks may inflict Slow on target
+Cleave,Gives the character a second turn after killing an enemy; no MP regen; does not apply if enemy has Rebirth
+Concentration,"Increases the accuracy of attacks by 20%, excepting Steal abilities"
+Defense Expert,Increases DEF by 32 + 1.5*Level
+Double Cast,Allows the character to cast two spells per turn at 75% effectiveness
+Double Cast II,Allows the character to cast two spells per turn
+Dual Wield,Character can equip two weapons or two shields; only regular attacks use second weapon
+Economy,MP costs reduced by 33%
+Elemental Mastery,Ignores some of target’s elemental resistance if resistance is less than 100%
+Equip All,"Allows the use of all equipment, regardless of class"
+Eruptor,"On any turn the character does not deal HP damage, HP damage increases by 18% on the next turn (up to a maximum of 72%)"
+Evasion Up,Increases EVA (evasion) by 13%
+Execute,Increases damage for offensive abilities by 45% when target’s HP is below 50%
+Exploit Weakness,Increases critical damage by 50%
+Focused Rage,"Adds 2.5% of MP to regular attack damage, consumes all MP"
+Fortitude,"Character is immune to injuries, Poison, Bleed, and Weaken"
+Hallowed Body,Increases ATK by 20% of MND and MND by 20% of ATK
+Hallowed Mind,"Gives the character bonus to healing or damage on the next turn for making a regular attack (45% for melee, 35% for ranged)"
+Health Expert,Increases max HP by 25%
+Height Advantage,Increases damage by 5% times the difference between the character and his target (to a maximum of 40%)
+Impetus,Speed increases by 5% per turn to a maximum of 30%
+Initiative,Gives the character a free turn at the start of combat
+Into the Fray,Damage increases by 12.5% to 85% depending on the number of adjacent enemies
+Item Potency,Items have double their normal effect
+Know Weakness,Increases the chance of a critical hit by 25%
+Know Weakness II,"Increases the chance of a critical hit by 25%, stacks with Know Weakness"
+Leech Life,Character recovers some HP with each regular attack
+Leech Mana,Character recovers some MP with each regular attack
+Legendary Healer,Increases healing by 45%
+Life Font,Character recovers 4 + 0.25*Level HP with each step
+Lucky,"Gives the character “an extra bit of luck”, actual effect unknown"
+Malice,Increases the chance of inflicting debuffs by 10% 
+Mana Expert,Character starts combat with 15 extra MP
+Mana Font,Character recovers 1 MP with each step
+Mind Expert,Increases MND by 14 + Level 
+No Flank,All attacks on the character are treated as if from the front
+Pain Points,Increases damage for offensive abilities by 45% when target’s HP is below 50%
+Perfect Focus,"When at full HP, do 32% more damage or healing"
+Permanence,Buffs and debuffs last one more turn than normal
+Quick Fingers,"Map actions like  Open, Gather, Climb, and Activate do not prevent the character from attacking or using a spell or an ability on that turn"
+Resilience,All debuffs last one turn less than normal
+Resistance Expert,Increases RES by 32 + 1.5*Level
+Shadowstep,Grants flying movement type
+Side Effects,Applying a buff heals the target by 0.3*HP; applying a debuff damages the target by 0.25*HP
+Smart Casting,Offensive spells will ignore friendly targets; defensive spells will ignore hostile targets
+Sturdy Grip,Allows the character to hold a two-handed weapon in one hand and to equip a shield regardless of his class
+Versatile,Allows skills and spells to cause critical hits and allows the character to recover some health on a critical hit
+Serenity,Character gains 3 MP when a pet is dismissed or when most buffs/debuffs are dispelled or wear off.
+Rampart,Enemies’ movements will be stopped at tiles adjacent to this character unless they are already in those tiles.
+Unbreakable Spirit,Every debuff on the character will increase their ATK and MND by 10%
+Razor Wind,"For an added cost of 6 MP, allows the character to use any single-target skill with a range of at least 1 as if it had a range of 4."
+Skirmish,Character can move an additional 1 space after taking an action.
+Owner's Pride,"Whenever an allied monster falls in battle or defeats an enemy, the character gains a 10% bonus to their SPD for the duration of the battle to a maximum of 40%."
